@@ -15,4 +15,5 @@ print(eat)
 food =input('food :')
 print('sweet') if food =='cake' or food == 'jalebi' else print('dont eat')
 
-#2 hour done
+
+
