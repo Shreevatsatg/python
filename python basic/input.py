@@ -22,5 +22,3 @@ if(a>=b):
 else:
     c=False
 print(c)
-
-#chapter 1 done 2.32 hour
