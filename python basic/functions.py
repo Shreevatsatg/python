@@ -33,3 +33,8 @@
 
 # calcfact(6)
 
+# def converter(n):
+#     inr=83*n
+#     print("value in inr is",inr)
+
+# converter(1)
