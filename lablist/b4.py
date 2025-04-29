@@ -92,4 +92,3 @@ btneq=Button(root,padx=125,pady=14,bd=4,bg='white',command=btn_equal,text="=")
 btneq.place(x=30,y=380)
 
 root.mainloop()
-
