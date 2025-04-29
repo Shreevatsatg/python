@@ -20,7 +20,6 @@ def btn_clear():
     expression=''
     input_text.set('')
 
-
 #Creating the root window and adjusting its size
 root=Tk()
 root.resizable(0,0)
