@@ -22,7 +22,6 @@ def calculate():
     else:
         messagebox.showwarning('Missing Data','Enter all values')
 
-
 root=Tk()
 root.configure(background='light grey')
 root.geometry('400x275')
